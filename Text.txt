@@ -1,0 +1,7 @@
+!-------- Array
+   1. Largest no in an array ✅
+   2. Unique Element in an array using set and filter ✅
+ 
+
+!---------- String
+1.Reverse String  ✅ 
