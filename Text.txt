@@ -1,0 +1,25 @@
+!-------- Array
+   1. Largest no in an array ✅
+   2. Unique Element in an array using set and filter ✅
+   3. sum of array using reduce ✅
+   4. 2nd Largest No in array ✅
+   5. find the dublicate elements ✅
+   6. find the Missing Number  ✅
+   7. Move all zeros to the end ✅
+   8. Find Intersection of Two Arrays  ✅
+   9. Flatten Array ✅
+   10.Chunk Array ✅ 
+   11.Find Common Elements from Multiple Arrays ✅
+   12.
+
+!---------- String
+1.Reverse String  ✅ 
+2.Reverse A word  ✅ 
+3.palindrom ✅  
+4. Check Vowels ✅ 
+5. uppercase the first character ✅ 
+6. Count Characters ✅
+7. Find Longest Word ✅
+
+!----------Num
+Odd Even ✅
