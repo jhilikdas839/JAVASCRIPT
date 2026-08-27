@@ -1,1 +1,18 @@
 // All interview Questions here
+1. Write a function that validates a user object: name required, age 18+, email must contain a valid basic pattern. Return useful error messages. ✅
+
+
+
+ 2. Given two values, safely determine whether they are equal in value and type. Explain every coercion edge case you test. ✅
+
+
+
+  3. Build a discount calculator that handles invalid prices, negative quantities, coupon rules, and minimum order amounts.  ✅
+
+
+
+   4. Given a list of HTTP-like status codes, return a human-readable category: success, client error, or server error. ✅
+
+
+
+   5. Refactor a deeply nested if/else validation function into readable guard clauses.
